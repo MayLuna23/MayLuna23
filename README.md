@@ -1,6 +1,21 @@
-`Hi 👋, I'm Mayra`
-A passionate Software Developer and Materials Engineer from Colombia
+<h1 align="center">Hi 👋, I'm Mayra</h1>
+<h3 align="center">A passionate Software Developer and Materials Engineer from Colombia</h3>
 
-Since I was a child I am passionate about technology, I have always liked to format computers, cell phones, get into the software of my video game consoles, realizing in the end that what I really love in life is technology, so I do what I like my way of living.
-Languages and Tools:
-My toolbox
+<br>
+<div align="left">Since I was a child I am passionate about technology, I have always liked to format computers, cell phones, get into the software of my video game consoles, realizing in the end that what I really love in life is technology, so I do what I like my way of living.</div>
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My toolbox](https://skillicons.dev/icons?i=py,django,js,nodejs,express,mysql,postgres,mongodb,docker,aws,html,css)](https://skillicons.dev)
+
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
