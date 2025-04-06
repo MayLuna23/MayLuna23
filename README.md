@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mayra</h1>
-<h3 align="center">A passionate Software Developer and Materials Engineer from Colombia</h3>
+<h3 align="center">Fullstack Developer | Backend lover | Lifelong learner</h3>
 
 <br>
-<div align="left">Since I was a child I am passionate about technology, I have always liked to format computers, cell phones, get into the software of my video game consoles, realizing in the end that what I really love in life is technology, so I do what I like my way of living.</div>
+<div align="left">- 💻 I'm a fullstack developer passionate about building complete web solutions — from backend logic to engaging frontend experiences.  
+- 🚀 I enjoy working with clean code, scalable systems, and collaborative teams.  
+- 📚 Always learning something new and looking for ways to bring real value to each project.</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
